@@ -1,7 +1,6 @@
 #!/bin/bash
 
 cd contracts/circuits
-
 mkdir HelloWorld
 
 if [ -f ./powersOfTau28_hez_final_10.ptau ]; then
